@@ -122,10 +122,3 @@ This project demonstrates how **machine learning** can predict Olympic medals us
 
 ---
 
-## 📧 Contact  
-
-📩 Feel free to reach out for discussions, suggestions, or improvements! 🚀  
-
----
-
-Let me know if you need any modifications! 😃🔥
