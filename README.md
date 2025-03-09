@@ -1,19 +1,6 @@
 # Olympic-Medals-Prediction
 # 🏅 Olympic Medals Prediction  
 
-*COMPANY*: CODTECH IT SOLUTIONS
-
-*NAME*: JERRY PRANEETH 
-
-*INTERN ID*: CT6WPYS  
-
-*DOMAIN*: PYTHON PROGRAMMING 
-
-*DURATION*: 6 WEEKS  
-
-*MENTOR*: NEELA SANTOSH  
-
----
 
 This project analyzes Olympic team data and builds a **machine learning model** to predict the number of medals won. It involves **data preprocessing, exploratory data analysis (EDA), and regression modeling** to make accurate predictions.  
 
